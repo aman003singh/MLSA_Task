@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/PF.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "LISTIFY",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Listify: A web app for making and managing to-do lists Listify is a web app that helps you create and organize your to-do lists. You can add tasks, set deadlines, mark them as done, and delete them. You can also sort your tasks by priority, date, or category. Listify is simple and easy to use. You can access your lists from any device or browser. Listify is built with HTML, CSS, JavaScript. Listify is an open source project and welcomes contributions from anyone who is interested in to-do list making and management. You can find the source code on [GitHub] and report any issues or suggestions on the [issue tracker]. You can also fork the repo and submit pull requests with your own improvements or features.",
+    url: "https://aman003singh.github.io/LISTIFY",
   },
   {
-    title: "Web Development for Beginners",
+    title: "STEGORACY",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web app for hiding an image in another image Stegoracy is a web app that allows you to conceal an image inside another image. You can use it to hide some secret message or information as well. Stegoracy uses the [DukeLearning] library for image processing and steganography. Steganography is the art and science of hiding information in plain sight. Stegoracy is secure and easy to use. You can upload two images, one as the cover and one as the secret, and Stegoracy will merge them into one image. You can also extract the secret image from the merged image by uploading it to Stegoracy.",
+    url: "https://aman003singh.github.io/STEGORACY/",
   },
   {
-    title: "My Resume Site",
+    title: "Parallax-Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a parallax website made using HTML, CSS and JavaScript",
+    url: "https://aman003singh.github.io/Parallax-Website/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "MAGIFY",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A web app for changing the green background of an image to any background you want Magify is a web app that lets you upload an image with a green background and replace it with any background you choose. You can select a background from a gallery of images or upload your own. Magify uses the [DukeLearning] library for image processing and green screen removal.",
+    url: "https://aman003singh.github.io/MAGIFY/",
   },
 ];
 
